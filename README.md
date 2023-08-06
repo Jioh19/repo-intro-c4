@@ -1,6 +1,6 @@
 # repo-intro-c4
 
-## Lorezon Fares
+## Lorezo Fares
 ## Juan Oh
 
 - Primer Estado: Working directory :hourglass:
